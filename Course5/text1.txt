@@ -1,0 +1,2 @@
+This is a test file.
+This file is used to test file handling in Python.

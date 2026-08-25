@@ -1,0 +1,26 @@
+Alan Turing,  Known as the father of computer science and AI. Turing Test is named after him.
+Barbara Grosz,  Pioneer in the field of natural language processing and multi-agent systems.
+Cynthia Dwork,  Known for her work on differential privacy and algorithmic fairness.
+Daphne Koller,  Co-founder of Coursera and a leader in probabilistic graphical models.
+Erik Brynjolfsson,  Researcher in the economics of information technology and AI.
+Fei-Fei Li,  Director of Stanford AI Lab and co-director of the Human-Centered AI Institute.
+Geoffrey Hinton,  One of the founders of deep learning and backpropagation.
+Hilary Mason,  Founder of Fast Forward Labs and expert in data science and machine learning.
+Ian Goodfellow,  Inventor of Generative Adversarial Networks (GANs).
+Judea Pearl,  Known for his work on Bayesian networks and causal inference.
+Kunihiko Fukushima,  Creator of the neocognitron, a precursor to convolutional neural networks.
+Leslie Valiant,  Theorist known for PAC learning and complexity theory.
+Marvin Minsky,  Co-founder of the MIT AI Lab and pioneer in AI research.
+Nando de Freitas,  Expert in machine learning and reinforcement learning.
+Oren Etzioni,  CEO of the Allen Institute for AI and pioneer in web search and machine reading.
+Peter Norvig,  Co-author of "Artificial Intelligence: A Modern Approach" and Director of Research at Google.
+Qiang Yang,  Leader in transfer learning and data mining.
+Rodney Brooks,  Inventor of the subsumption architecture and founder of iRobot.
+Stuart Russell,  Co-author of "Artificial Intelligence: A Modern Approach" and researcher in AI safety.
+Tim Berners-Lee,  Inventor of the World Wide Web and advocate for open data and internet ethics.
+Ursula Martin,  Researcher in theoretical computer science and formal verification.
+Vladimir Vapnik,  Co-inventor of Support Vector Machines and statistical learning theory.
+Wendy Hall,  Pioneer in multimedia and hypermedia systems.
+Xiaojin Zhu,  Known for his work on semi-supervised learning.
+Yann LeCun,  Co-developer of convolutional neural networks and Director of AI Research at Facebook.
+Zoubin Ghahramani,  Expert in Bayesian machine learning and professor at Cambridge University.

@@ -1,0 +1,26 @@
+A: Alan Turing
+B: Barbara Grosz
+C: Cynthia Dwork
+D: Daphne Koller
+E: Erik Brynjolfsson
+F: Fei-Fei Li
+G: Geoffrey Hinton
+H: Hilary Mason
+I: Ian Goodfellow
+J: Judea Pearl
+K: Kunihiko Fukushima
+L: Leslie Valiant
+M: Marvin Minsky
+N: Nando de Freitas
+O: Oren Etzioni
+P: Peter Norvig
+Q: Qiang Yang
+R: Rodney Brooks
+S: Stuart Russell
+T: Tim Berners-Lee
+U: Ursula Martin
+V: Vladimir Vapnik
+W: Wendy Hall
+X: Xiaojin Zhu
+Y: Yann LeCun
+Z: Zoubin Ghahramani
